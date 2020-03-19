@@ -24,6 +24,6 @@ _______________________________________________________________________________
 
 ## Préservation de la langue Mohawk  
 
-En 2020, la Fondation Paré aidera à subvenir au coût de la vie des étudiants adultes qui étudient l'enseignement de la langue Mohawk.
+En 2020, la Fondation Paré aidera à soutenir financièrement des étudiants adultes qui étudient l'enseignement de la langue Mohawk.
 
-Ces étudiants reçoivent actuellement une allocation inadéquate afin de subvenir aux coûts de la vie, et toute contribution de notre part sera grandement appréciée. Les étudiants, au programme à Kanehsatake pour apprendre à enseigner la langue Mohawk, pourront un jour remplacer les aînés qui enseignent à ce jour dans l'école primare et l'école secondaire de Kanehsatake. La plupart de ces étudiants adultes n'ont ni revenu, ni bourse, pour subvenir à leurs besoins pendant qu'ils sont aux études. L'appui de la Fondation leur donnera la chance de rebâtir leur propre langue et culture et la capacité d'occuper ces postes d'enseignement essentiels.
+Ces étudiants reçoivent actuellement une allocation insuffisante, et toute contribution de notre part sera grandement appréciée. Les étudiants, inscrits au programme d'apprentissage de l'enseignement de la langue Mohawk à Kanehsatake, pourront un jour remplacer les aînés de la communauté qui enseignent à l'école primare et secondaire. La plupart de ces étudiants adultes n'ont ni revenu, ni bourse, pour subvenir à leurs besoins pendant qu'ils sont aux études. L'appui de la Fondation leur donnera la chance de contribuer à rebâtir leur propre langue et leur propre culture, et leur donnera également la capacité d'occuper ces postes d'enseignement essentiels.
