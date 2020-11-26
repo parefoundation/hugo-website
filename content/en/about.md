@@ -25,4 +25,4 @@ The Foundation’s projects center on investing in the education of children and
 
 ## Looking back
 
-If you’d like more information on the Paré family, take a look at The Seeds, a family history written by Lucy Griffith Paré in collaboration with her son Antoine Paré. (published in 1984). [Download the book here](http://www.ballyhoo.ca/uploads/2/2/6/9/22695826/the_seeds_searchable.pdf) (PDF, 178MB). Many thanks to Joe Graham for his help providing online access to this book.
+If you’d like more information on the Paré family, take a look at The Seeds, a family history written by Lucy Griffith Paré in collaboration with her son Antoine Paré (published in 1984). [Download the book here](http://www.ballyhoo.ca/uploads/2/2/6/9/22695826/the_seeds_searchable.pdf) (PDF, 178MB). Many thanks to Joe Graham for his help providing online access to this book.
