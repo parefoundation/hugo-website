@@ -4,7 +4,7 @@ linktitle: India
 toc: false
 type: docs
 draft: false
-lastmod: "2020-08-23"
+lastmod: "2020-11-27"
 menu:
   current-projects:
     parent: Current Projects
@@ -12,11 +12,12 @@ menu:
 
 weight: 3
 ---
-<img src="/img/India/India_Flag.png" style="width:150px;height:100px;">
 ## Meet Muthazhagi
 
-Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation is supporting a new student, Muthazhagi, for the final year of her Master's Degree in Medical Physics.
+Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation is now supporting three students: Muthazhagi, Vasanthazhagi, and Gayathri.
+
+Muthazhagi, whom we have been supporting for a couple of years, is in her final year of a Master's Degree in Medical Physics.
 
 ![Muthazhagi](/img/India/IndiaStudent2020.jpg)
 
-We are now exploring new ways to support the efforts of the Regenboog Foundation as they work towards establishing an evening school for students who need academic support.
+In addition, we now have two new students: Vasanthazhagi who is doing a Bachelor's degree of Engineering (B.E.) in Information Technology (a 4 year course) and Gayathri who is in her 3rd year of a nursing degree.
