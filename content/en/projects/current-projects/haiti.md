@@ -12,8 +12,6 @@ menu:
 
 weight: 2
 ---
-<img src="/img/Haiti/Haiti_Flag.png" style="float:right;width:150px;height:100px;">
-## The Paré Scholar Program
 
 **In partnership with the Haitian Education and Leadership Program (HELP), the Foundation has set up a Paré Scholar Program to support deserving young students in Haiti.**
 
