@@ -12,7 +12,6 @@ menu:
 
 weight: 3
 ---
-## Voici Muthazhagi
 
 Notre collaboration avec la Fondation Regenboog continue à Tiruvannamalai. Nous assurons maintenant un soutien à trois édudiants: Muthazhagi, Vasanthazhagi, and Gayathri.
 
@@ -20,4 +19,4 @@ Muthazhagi, à qui nous offrons un soutien depuis déjà deux ans, est présente
 
 ![Muthazhagi](/img/India/IndiaStudent2020.jpg)
 
-Depuis 2020, nous aidons deux nouvelles étudiantes: Vasanthazhagi est incrite au baccalauréat en Génie-informatique (un cours de quatre ans) et Gayathri qui en est à sa 3e année d'un diplôme en Science infirmières.
+Depuis 2020, nous aidons deux nouvelles étudiantes: Vasanthazhagi est inscrite au baccalauréat en Génie-informatique (un cours de quatre ans), et Gayathri en est à sa 3ème année d'un diplôme en Sciences infirmières.

@@ -12,7 +12,6 @@ menu:
 
 weight: 3
 ---
-## Meet Muthazhagi
 
 Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation is now supporting three students: Muthazhagi, Vasanthazhagi, and Gayathri.
 
