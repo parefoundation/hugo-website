@@ -4,7 +4,7 @@ linktitle: Haïti
 toc: false
 type: docs
 draft: false
-lastmod: "2019-11-26"
+lastmod: "2020-11-26"
 menu:
   current-projects:
     parent: Projets en cours
@@ -28,10 +28,6 @@ Initié en 2010, peu de temps après le tremblement de terre, notre programme de
 
 Pour plus d'information sur le programme de HELP, cliquer [ici](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
 
-L'étudiante que nous parrainons actuellement a complété sa quatrième année en Informatique à l'École Supérieure d'Infotronique d'Haïti. Elle a atteint une moyenne de 81% au semestre 2018-19, se méritant ainsi une mention du doyen et une place sur le tableau d'honneur de HELP.
+Notre étudiante actuelle, Valencia Dorvilus, étudie l'agronomie à l'université Quisqueya de Port-au-Prince. Ces cours incluent la botanique, la science du sol, et les traditions médicales locales. 
 
-![Daana](/img/Haiti/DaanaRoc.png)
-
-![Team](/img/Haiti/Daanawithteam.jpg)
-
-Très bientôt, nous vous présenterons notre prochaine étudiante!
+![Valencia](/img/Haiti/valenciaD.jpg)

@@ -4,7 +4,7 @@ linktitle: Haiti
 toc: false
 type: docs
 draft: false
-lastmod: "2019-11-26"
+lastmod: "2020-11-26"
 menu:
   current-projects:
     parent: Current Projects
@@ -27,10 +27,6 @@ Started in 2010, shortly after the earthquake, the Paré scholar program consist
 
 For more information on HELP's program, click [here](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
 
-Our current Paré Scholar, Daana Roc completed her fourth year in a Computer Science degree at the Information Science Institute. Daana achieved an 81% average in her 2018-19 semester; earning herself a place on both the Dean's List and the HELP Honour Roll.
+Our current Paré Scholar, Valencia Dorvilus, is studying agro-economics at Quisqueya University in Port-au-Prince. Her classes include botany, soil science and local traditional medicine.
 
-![Daana](/img/Haiti/DaanaRoc.png)
-
-![Team](/img/Haiti/Daanawithteam.jpg)
-
-Very soon we will introduce you to our next Paré Scholar!
+![Valencia](/img/Haiti/valenciaD.jpg)
