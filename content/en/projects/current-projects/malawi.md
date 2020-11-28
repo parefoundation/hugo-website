@@ -4,7 +4,7 @@ linktitle: Malawi
 toc: false
 type: docs
 draft: false
-lastmod: "2019-11-26"
+lastmod: "2020-11-28"
 menu:
   current-projects:
     parent: Current Projects
@@ -22,7 +22,6 @@ gallery_item:
   image: /Malawi/Jane Chiona.jpg
   caption: Jane
 ---
-<img src="/img/Malawi/Malawi_Flag.png" style="float:right;width:150px;height:100px;">
 
 ## The Jim and Nancy Wright Scholars
 
@@ -37,3 +36,13 @@ Due to the nature of schooling in Sub-Saharan Africa, the chosen approach contin
 Among the Wright Scholars that have graduated from secondary school, 7 have gone on to university and been able to count on continued support from the Foundation. We are currently supporting 5 university students: Esau is at Polytechnic University finishing a Bachelor of Science in Land Survey; Jacqueline is at LUNA (Lilongwe University of Agriculture Research) in her last year of a Bachelor of Science in Development Economics; Isabel is studying Earth Science at MUST (Malawi University of Science and Technology); Naomi is at St-Joseph's College of Nursing; and Benson is enrolled in a program to become an electrician.
 
 {{< gallery >}}
+
+---
+## Loyola Jesuit Secondary School
+
+We’re very pleased to announce our new partnership with [Loyola-Malawi](https://loyola-malawi.org/), launched in memory of Donald Paré, former President of the Paré Foundation, who was deeply committed to the Foundation’s mission, as well as the Jesuit ideal of forming “Women and Men for Others”. Starting in 2020-21, we welcome our first cohort of 5 Paré scholars: four girls, one boy. We are committed to supporting these five students every year through to high school graduation, and beyond.
+
+Loyola-Malawi is situated in Kasungu district, a few hours north of Lilongwe, the capital. The school boasts beautiful grounds and a new building to welcome its students. Admission is based on merit alone. Run by the Zambia-Malawi Jesuit Province, Loyola strives to offer a ‘preferential option for the poor’ – in this case, high quality education to those that otherwise wouldn’t have access to such schooling. We at the Paré Foundation are thrilled to participate in that mission.
+
+
+*The term ‘preferential option for the poor’ is attributed to the Jesuits of Latin America, in the 1960s.
