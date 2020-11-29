@@ -42,7 +42,7 @@ Among the Wright Scholars that have graduated from secondary school, 7 have gone
 
 We’re very pleased to announce our new partnership with [Loyola-Malawi](https://loyola-malawi.org/), launched in memory of Donald Paré, former President of the Paré Foundation, who was deeply committed to the Foundation’s mission, as well as the Jesuit ideal of forming “Women and Men for Others”. Starting in 2020-21, we welcome our first cohort of 5 Paré scholars: four girls, one boy. We are committed to supporting these five students every year through to high school graduation, and beyond.
 
-Loyola-Malawi is situated in Kasungu district, a few hours north of Lilongwe, the capital. The school boasts beautiful grounds and a new building to welcome its students. Admission is based on merit alone. Run by the Zambia-Malawi Jesuit Province, Loyola strives to offer a ‘preferential option for the poor’ – in this case, high quality education to those that otherwise wouldn’t have access to such schooling. We at the Paré Foundation are thrilled to participate in that mission.
+Loyola-Malawi is situated in Kasungu district, a few hours north of Lilongwe, the capital. The school boasts beautiful grounds and a new building to welcome its students. Admission is based on merit alone. Run by the Zambia-Malawi Jesuit Province, Loyola strives to offer a ‘preferential option for the poor’* – in this case, high quality education to those that otherwise wouldn’t have access to such schooling. We at the Paré Foundation are thrilled to participate in that mission.
 
 
-*The term ‘preferential option for the poor’ is attributed to the Jesuits of Latin America, in the 1960s.
+_*The term ‘preferential option for the poor’ is attributed to the Jesuits of Latin America, in the 1960s._
