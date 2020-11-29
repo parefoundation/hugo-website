@@ -12,8 +12,6 @@ title: "Board Of Directors"
 
 **Jane Howlett** - Membership coordinator
 
-**Marc Paré** - Fundraising coordinator
-
 **Lora Campbell** - Newsletter Coordinator
 
 **Joseph Graham** - Director
@@ -23,6 +21,8 @@ title: "Board Of Directors"
 **David Paré** - Director
 
 **Julia Paré** - Director
+
+**Marc Paré** - Director
 
 **Victor Paré** - Director
 

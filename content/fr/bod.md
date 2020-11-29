@@ -12,8 +12,6 @@ title: "Conseil d'administration"
 
 **Jane Howlett** - Coordination des membres
 
-**Marc Paré** - Coordination de la levée de fonds
-
 **Lora Campbell** - Coordination de l'infolettre
 
 **Joseph Graham** - Directeur
@@ -23,6 +21,8 @@ title: "Conseil d'administration"
 **David Paré** - Directeur
 
 **Julia Paré** - Directeur
+
+**Marc Paré** - Directeur
 
 **Victor Paré** - Directeur
 
