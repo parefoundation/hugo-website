@@ -25,6 +25,6 @@ Initié en 2010, peu de temps après le tremblement de terre, notre programme de
 
 Pour plus d'information sur le programme de HELP, cliquer [ici](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
 
-Notre étudiante actuelle, Valencia Dorvilus, étudie l'agronomie à l'université Quisqueya de Port-au-Prince. Ces cours incluent la botanique, la science du sol, et les traditions médicales locales.
+Notre étudiante actuelle, Valencia Dorvilus, étudie l'agronomie à l'université Quisqueya de Port-au-Prince. Ces cours incluent la botanique, la science du sol, et la médecine traditionnelle locale.
 
 ![Valencia](/img/Haiti/valenciaD.jpg)
