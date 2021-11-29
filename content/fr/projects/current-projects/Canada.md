@@ -4,7 +4,7 @@ linktitle: Canada
 toc: false
 type: docs
 draft: false
-lastmod: "2020-11-26"
+lastmod: "2021-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -12,18 +12,11 @@ menu:
 
 weight: 4
 ---
-![Salluit](/img/Canada/Salluit.jpg)
 
-## Voici Tannis
+## Préservation de la langue mohawk  
 
-La Fondation Paré a offert à Tannis, une étudiante autochtone, de l'aide financière pour compléter son Baccalauréat en Droit à l’Université de la Saskatchewan.
+Depuis 2020, la Fondation Paré contribue à un programme de langue mohawk à Kanehsatà:ke, au Québec. Ce programme pluriannuel d'immersion pour adultes est offert par l’Association pour la préservation de la langue mohawk de Kanehsatà:ke et vise à assurer la survie et l'épanouissement de la langue ancestrale. Le programme a maintenant diplômé ses quatre premiers étudiants. Tous ont trouvé un emploi au niveau local, notamment dans les services de santé et d'éducation, ainsi qu'un poste d'annonceur à la station de radio de Kanehsatà:ke, RKR-FM.
 
-Tannis cherche à réduire la surreprésentation des enfants autochtones dans le système de la protection de la jeunesse. Elle espère aider les communautés autochtones à mettre en oeuvre le projet de loi C-92 afin de pouvoir prendre en main les décisions qui concernent les enfants de leur communauté.
+La plupart de ces étudiants adultes n'ont ni revenu, ni bourse, pour subvenir à leurs besoins pendant qu'ils sont aux études, et toute contribution de notre part est grandement appréciée. L'appui de la Fondation Paré leur fournit le soutien nécessaire pour atteindre la compétence d'enseignement en mohawk. Les étudiants de ce programme pourront un jour remplacer les aînés de la communauté qui enseignent à l'école primaire et secondaire de Kanehsatà:ke.  
 
-_______________________________________________________________________________
-
-## Préservation de la langue Mohawk  
-
-En 2020, la Fondation Paré a offert un soutien financier à des étudiants adultes qui étudient l'enseignement de la langue Mohawk.
-
-Ces étudiants reçoivent actuellement une allocation insuffisante, et toute contribution de notre part est grandement appréciée. Les étudiants, inscrits au programme d'apprentissage de l'enseignement de la langue Mohawk à Kanehsatake, pourront un jour remplacer les aînés de la communauté qui enseignent à l'école primaire et secondaire. La plupart de ces étudiants adultes n'ont ni revenu, ni bourse, pour subvenir à leurs besoins pendant qu'ils sont aux études. L'appui de la Fondation leur donne la chance de contribuer à rebâtir leur propre langue et leur propre culture, et leur donne également la capacité d'occuper ces postes d'enseignement essentiels.
+![Mohawk Language Custodian Association](/img/Canada/MLP.jpg)

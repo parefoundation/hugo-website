@@ -4,7 +4,7 @@ linktitle: Haiti
 toc: false
 type: docs
 draft: false
-lastmod: "2020-11-26"
+lastmod: "2021-11-27"
 menu:
   current-projects:
     parent: Current Projects
@@ -28,3 +28,5 @@ For more information on HELP's program, click [here](http://uhelp.net/our-story/
 Our current Paré Scholar, Valencia Dorvilus, is studying agro-economics at Quisqueya University in Port-au-Prince. Her classes include botany, soil science and local traditional medicine.
 
 ![Valencia](/img/Haiti/valenciaD.jpg)
+
+Thanks to financial support from the Jind family in Toronto, we've been able to significantly expand our partnership with HELP. Valencia will be joined by two more scholars, as the Paré Foundation-HELP partnership grows from 1 to 3 scholars over the next 5 years.
