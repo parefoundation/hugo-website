@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Projets
 # date: "2019-09-09T00:00:00Z"
-lastmod: "2020-12-28"
+lastmod: "2021-11-28"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -31,3 +31,4 @@ menu:
 ## Anciens projets
 
 - [République dominicaine](/fr/projects/past-projects/dominican_republic)
+- [Canada](/fr/projects/past-projects/canada)
