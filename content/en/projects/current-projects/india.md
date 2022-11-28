@@ -4,7 +4,7 @@ linktitle: India
 toc: false
 type: docs
 draft: false
-lastmod: "2021-11-29"
+lastmod: "2022-11-25"
 menu:
   current-projects:
     parent: Current Projects
@@ -13,8 +13,12 @@ menu:
 weight: 3
 ---
 
-Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation has the honour of supporting three new students: Keerthiga (Computer Science), Sakthivel (Chemistry), Abitha (Commerce).
+Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation is supporting five students:
 
-Meanwhile, in 2021, Muthazhagi completed her Master's Degree in Medical Physics. Her sister, Vasanthazhagi, also supported by the Paré Foundation, is in her second year of a bachelor in Information Technology. Gayathri (pictured below) is in her 4th year of nursing. She is already hard at work helping with the vaccination effort.
+* Sakthivel is in his final year of a bachelor degree  in Chemistry. He hopes to work in the Public Service sector.
+* Abithagujalambal is in her 2nd year of a degree in Commerce. She hopes to become a chartered accountant.
+* Vasanthalagi is in her 3rd year of a degree in Computer Science and is learning Python.
+* Keerthiga is in her 2nd year, also studying Computer Science.
+* Sujatha is in her 1st year of college. She is doing an internship in a hospital currently.
 
-![Gayathri](/img/India/Gayathri.jpg)
+![Sujatha](/img/India/indiaSujatha.jpg)
