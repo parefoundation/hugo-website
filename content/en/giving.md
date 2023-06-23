@@ -8,15 +8,17 @@ title: "Giving"
 
 [![Donate Now Through CanadaHelps.org!](https://www.canadahelps.org/secure/img/Donate1_en.png)](https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d12978)
 
-Donations are processed through [CanadaHelps.org](https://www.canadahelps.org/en/dn/11145).
+Online donations are processed through [CanadaHelps.org](https://www.canadahelps.org/en/dn/11145).
 
 ---
 
 ### E-Transfer
 
-You are also welcome to send a donation via Interac e-transfer to:
+You are welcome to send a donation via Interac e-transfer to:
 
 parefound@gmail.com
+
+If your bank allows, you can also set up automatic monthly transfers.
 
 ---
 
@@ -28,8 +30,12 @@ Please write cheques to
 
 and mail them to the attention of:
 
-Alphonse and Lucy Griffith Paré Foundation<br/>
-c/o Marie-Claire Paré Holland<br/>
-904-239 Kensington ave<br/>
-Westmount, Québec, Canada<br/>
+Alphonse and Lucy Griffith Paré Foundation  
+<br/>
+c/o Marie-Claire Paré Holland  
+<br/>
+904-239 Kensington ave  
+<br/>
+Westmount, Québec  
+<br/>
 H3Z 2H1

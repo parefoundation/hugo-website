@@ -34,7 +34,7 @@ Meanwhile, here is an update on our current (and recently graduated) university 
 * Benson completed his year of apprenticeship in electrical engineering and returns to the classroom in January for his final year at Don Bosco Technical Institute.
 * Our newest university student, Jane Chiona, is enrolled in a 4 year Bachelor of Arts program in media for development.
 
-![Esau](/img/Malawi/Essaugradflowers.jpg)
+![Esau](/img/Malawi/Esaugradflowers.jpg)
 
 
 ---

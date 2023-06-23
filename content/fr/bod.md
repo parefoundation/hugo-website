@@ -22,7 +22,9 @@ title: "Conseil d'administration"
 
 **Julia Paré** - Directeur
 
-**Marc Paré** - Directeur
+**Nancy Paré** - Directeur
+
+**Susan Paré** - Directeur
 
 **Victor Paré** - Directeur
 

@@ -22,7 +22,9 @@ title: "Board Of Directors"
 
 **Julia Paré** - Director
 
-**Marc Paré** - Director
+**Nancy Paré** - Director
+
+**Susan Paré** - Director
 
 **Victor Paré** - Director
 

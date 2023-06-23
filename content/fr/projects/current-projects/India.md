@@ -4,17 +4,22 @@ linktitle: Inde
 toc: false
 type: docs
 draft: false
-lastmod: "2021-11-29"
+lastmod: "2022-11-28"
 menu:
   current-projects:
     parent: Projets en cours
     weight: 3
 
 weight: 3
+
 ---
 
-Notre collaboration avec la Fondation Regenboog continue à Tiruvannamalai. Nous accueillons cette année trois nouveaux étudiants: Keerthiga (Science de l'informatique), Sakthivel (Chimie), Abitha (Commerce).
+Notre collaboration avec la Fondation Regenboog continue à Tiruvannamalai. Nous soutenons maintenant cinq étudiants dans leurs études supérieures:
 
-Pendant ce temps, en 2021, Muthazhagi a complété sa maîtrise en Physique de la Médecine. Sa soeur, Vasanthazhagi, qui bénéficie également du soutien de la Fondation Paré, en est à sa deuxième année d'un baccalauréat en technologie de l'information. Gayathri (ci-bas) termine son diplôme en soins infirmiers après quatre ans d'études. Elle se met déjà à l'oeuvre pour aider à administrer les vaccins contre le Covid-19.
+* Sakthivel en est à sa dernière année de licence en chimie. Après son diplôme, il prévoit étudier pour les examens de concours afin d'entrer dans la fonction publique.
+* Abithagujalambal est en 2ième année d'un programme en commerce. Elle espère poursuivre des études qui lui permettront de devenir comptable agréée.
+* Vasanthalagi a commencé sa 3ième année d'étude en informatique.  Elle étudie actuellement le langage Python.
+* Keerthiga est en 2ième année de licence et elle étudie, elle aussi, l'informatique.
+* Sujatha (ci-dessous) est en 1ère année d'université. Elle participe actuellement à un stage dans un hôpital.
 
-![Gayathri](/img/India/Gayathri.jpg)
+![Sujatha](/img/India/indiaSujatha.jpg)

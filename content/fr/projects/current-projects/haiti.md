@@ -4,7 +4,7 @@ linktitle: Haïti
 toc: false
 type: docs
 draft: false
-lastmod: "2021-11-27"
+lastmod: "2022-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -25,8 +25,8 @@ Initié en 2010, peu de temps après le tremblement de terre, notre programme de
 
 Pour plus d'information sur le programme de HELP, cliquer [ici](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
 
-Notre étudiante actuelle, Valencia Dorvilus, étudie l'agroéconomie à l'université Quisqueya de Port-au-Prince. Ces cours incluent la botanique, la science du sol, et la médecine traditionnelle locale.
+Les trois boursiers soutenus par la Fondation Paré à HELP sont Valencia Dorvilus (agro-économie), Sabine Joseph (agro-production) et Katiana Norvil (agro-économie), cette dernière étant soutenue par la famille Jind à Toronto. Toutes trois expriment leur profonde gratitude envers HELP pour les avoir accompagnées dans leurs études. Mis à part les succès académiques, le plus important est peut-être leur engagement profond dans le service communautaire.
 
-![Valencia](/img/Haiti/valenciaD.jpg)
+Valencia, ayant participé au groupe d'autonomisation des femmes à HELP et coordonné le club de danse de HELP, affirme que "...grâce à toutes ces activités, j'ai pu m'impliquer dans mon milieu et mettre mes compétences au service de ma communauté".
 
-Grâce au soutien financier de la famille Jind de Toronto, nous avons pu élargir considérablement notre partenariat avec HELP. Valencia sera rejointe par deux autres boursiers, car le partenariat Fondation Paré-HELP passera de 1 à 3 boursiers au cours des 5 prochaines années.
+![Students](/img/Haiti/helpstudents.jpg)

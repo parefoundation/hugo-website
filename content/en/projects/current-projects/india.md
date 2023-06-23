@@ -11,6 +11,7 @@ menu:
     weight: 3
 
 weight: 3
+
 ---
 
 Our collaboration with the Regenboog Foundation continues in Tiruvannamalai where the Paré Foundation is supporting five students:
@@ -19,6 +20,6 @@ Our collaboration with the Regenboog Foundation continues in Tiruvannamalai wher
 * Abithagujalambal is in her 2nd year of a degree in Commerce. She hopes to become a chartered accountant.
 * Vasanthalagi is in her 3rd year of a degree in Computer Science and is learning Python.
 * Keerthiga is in her 2nd year, also studying Computer Science.
-* Sujatha is in her 1st year of college. She is doing an internship in a hospital currently.
+* Sujatha (pictured below) is in her 1st year of college. She is doing an internship in a hospital currently.
 
 ![Sujatha](/img/India/indiaSujatha.jpg)

@@ -29,4 +29,4 @@ We are currently supporting three Paré Scholars at HELP: Valencia Dorvilus (agr
 
 Valencia, having taken part in the women’s empowerment group at HELP and coordinated the HELP dance club, reports that “…through all these activities, I was able to get involved in my surroundings and use my skills in service of my community.”
 
-![Valencia](/img/Haiti/valenciaD.jpg)
+![Students](/img/Haiti/helpstudents.jpg)

@@ -25,7 +25,11 @@ The Mohawk Language Custodian Association has also managed to get help from McGi
 
 ![Mohawk Language Custodian Association](/img/Canada/MLP.jpg)
 
+---
+
 ## CareJeunesse
+
+![CareJeunesse](/img/Canada/carejeunesselogo.jpg)
 
 Centre Amitié, Ressources, et Entraide pour la Jeunesse (C.A.R.E. Jeunesse) is a Quebec, bilingual, non-profit organization dedicated to providing a community and a voice for youth leaving government care. Founded by alumni of care who have experienced the system first hand, the organization aims to assist youth after they leave care. The Paré Foundation is offering scholarships to two students who need support to continue their education:
 
