@@ -25,4 +25,4 @@ La fondation privilégie le soutien à long terme de l'éducation des jeunes. Le
 
 ## Un regard sur le passé
 
-Pour plus d'information au sujet de la famille Paré, consultez The Seeds, l'autobiographie de Lucy Griffith, écrite en collaboration avec son fils Antoine Paré et publiée en 1984. [Téléchargez le livre ici](https://www.ballyhoo.ca/lucy-pareacute-the-seeds.html) (PDF, 178MB). Nous remercions Joe Graham pour l'accès en ligne.
+Pour plus d'information au sujet de la famille Paré, consultez The Seeds, l'autobiographie de Lucy Griffith, écrite en collaboration avec son fils Antoine Paré et publiée en 1984. [Téléchargez le livre ici](https://www.ballyhoo.ca/lucy-pareacute-the-seeds.html). Nous remercions Joe Graham pour l'accès en ligne.
