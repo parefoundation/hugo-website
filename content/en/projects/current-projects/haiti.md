@@ -4,7 +4,7 @@ linktitle: Haiti
 toc: false
 type: docs
 draft: false
-lastmod: "2022-11-25"
+lastmod: "2023-11-27"
 menu:
   current-projects:
     parent: Current Projects
@@ -15,7 +15,7 @@ weight: 2
 
 **In partnership with the Haitian Education and Leadership Program (HELP), the Foundation has set up a Paré Scholar Program to support deserving young students in Haiti.**
 
-Started in 2010, shortly after the earthquake, the Paré scholar program consists of:
+Started in 2010, shortly after the earthquake, the Paré Scholar program consists of:
 
 *   Tuition-free classes at an internationally accredited university
 *   Textbooks and supplies

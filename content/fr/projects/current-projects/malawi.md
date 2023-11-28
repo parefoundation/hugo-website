@@ -4,7 +4,7 @@ linktitle: Malawi
 toc: false
 type: docs
 draft: false
-lastmod: "2022-11-28"
+lastmod: "2023-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -22,26 +22,23 @@ Ainsi nommé en hommage à la famille Jim et Nancy Wright qui a vivement soutenu
 
 Étant donné la nature de la vie scolaire en Afrique subsaharienne, nous favorisons une approche holistique qui consiste à couvrir les coûts directs et indirects de l'éducation de nos boursiers: frais de scolarité, livres, matériel scolaire, repas du midi, frais de transport, si nécessaire. Ce dernier item revêt toute son importance lorsqu'il s'agit de jeunes filles vulnérables qui doivent parcourir de longues distances sur des chemins isolés.
 
-![Rice](/img/Malawi/ricebags.jpg)
+![Rice](/img/Malawi/BensonSolarPanels.jpg)
 
-Trois élèves du secondaire ont passé leurs examens en août et attendent maintenant avec impatience leurs résultats. Nous espérons continuer à les soutenir à l'université, à partir de septembre 2023.
+Les étudiants que nous avons soutenus au secondaire sont maintenant tous inscrits à l'université:
 
-Entre temps, voici des nouvelles de nos étudiants universitaires:
-
-* Esau (sur la photo ici-bas) a obtenu un diplôme en arpenta de l'École Polytechnique.
-* Jacqueline a terminé son Bac en science sur l'économie du développement à LUNA (Lilongwe University of Agriculture Research).
-* Isabelle étudie en Science planétaire à MUST (Malawi University of Science and Technology) et elle est actuellement sur le terrain en stage au service d'étude géologique de Mzuzu. En décembre, elle sera de retour en classe pour sa dernière année.
-* Naomi est au Collège St-Joseph à la Faculté des sciences infirmières; elle a passé ses examens finaux en mai et se prépare maintenant à passer les examens de licence d'infirmière à la fin du mois de novembre. 
-* Benson a terminé son année d'apprentissage en électrotechnique et retourne en classe en janvier pour sa dernière année à l'Institut technique Don Bosco. 
-* Jane Chiona entame une licence Ès Arts Média pour le développement d'une durée de 4 ans.
+* Tamandani et Judith ont récemment obtenu leur diplôme de fin d'études secondaires et ont été acceptées à l'université Kamuzu des sciences de la santé pour des licences de 5 ans en sciences de la nutrition et de la diététique et en sciences biomédicales, respectivement.
+* Benson (photo ci-dessus) termine sa dernière année au Don Bosco Youth Technical Institute en ingénierie électrique. Son stage se termine en décembre et sa cérémonie de remise des diplômes aura lieu en février 2024.
+* Jane Chiona (photo ici bas) est en deuxième année d'une licence de lettres de quatre ans à l'université du Malawi à Zomba, où elle étudie les médias pour le développement.
 
 
-![Esau](/img/Malawi/Esaugradflowers.jpg)
+![Esau](/img/Malawi/JaneChione2.jpg)
 ___
 
 ## École secondaire jésuite Loyola
 
-Nous en sommes à la quatrième année du partenariat avec [Loyola-Malawi](https://loyola-malawi.org/). Le programme Loyola-Malawi a été lancé en mémoire de Donald Paré, ancien président de la Fondation Paré, qui était profondément engagé dans la mission de la Fondation, ainsi que dans l'idéal jésuite de former "des Femmes et des Hommes pour les Autres”. Nous supportons toujours notre première cohorte de cinq boursiers Paré: quatre filles et un garçon. Nous nous sommes engagés à soutenir ces cinq étudiants chaque année jusqu'à la fin de leurs études secondaires et même au-delà.
+Nous en sommes à la cinquième année du partenariat avec Loyola-Malawi. Le programme Loyola-Malawi a été lancé en mémoire de Donald Paré, ancien président de la Fondation Paré, qui était profondément engagé dans la mission de la Fondation, ainsi que dans l'idéal jésuite de former "des Femmes et des Hommes pour les Autres”. 
+
+Nous sommes heureux d'annoncer que notre première cohorte de cinq étudiants ont tous réussi leurs examens de fin d'études secondaires à Loyola-Malawi. À partir de cette année scolaire, nous avons un nouveau groupe de cinq étudiantes - toutes des filles - qui commencent leur parcours à cette école secondaire. L'admission se fait au mérite et notre soutien permet à ces jeunes filles issues de milieux défavorisés d'accéder à des possibilités de carrière qui auraient été impossibles autrement.
 
 ![Loyola](/img/Malawi/loyola-Malawi.jpg)
 

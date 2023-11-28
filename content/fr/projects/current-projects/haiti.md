@@ -4,7 +4,7 @@ linktitle: Haïti
 toc: false
 type: docs
 draft: false
-lastmod: "2022-11-27"
+lastmod: "2023-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -13,9 +13,9 @@ menu:
 weight: 2
 ---
 
-**Notre implication à Haïti se fait en partenariat avec l’organisme HELP (Haitian Education and Leadership Program). Notre programme de Boursier Paré nous permet de parrainer une étudiante pour la durée de son programme universitaire.**
+**Notre implication à Haïti se fait en partenariat avec l’organisme HELP (Haitian Education and Leadership Program). Notre programme de Boursiers Paré nous permet de parrainer des étudiants pour la durée de leur programme universitaire.**
 
-Initié en 2010, peu de temps après le tremblement de terre, notre programme de Boursier Paré inclut:
+Initié en 2010, peu de temps après le tremblement de terre, notre programme de Boursiers Paré inclut:
 
 *   Les frais de scolarité universitaires
 *   Le coût des manuels et fournitures scolaires

@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Projets
 # date: "2019-09-09T00:00:00Z"
-lastmod: "2022-11-28"
+lastmod: "2023-11-27"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
