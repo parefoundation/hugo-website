@@ -4,7 +4,7 @@ linktitle: Haïti
 toc: false
 type: docs
 draft: false
-lastmod: "2023-11-27"
+lastmod: "2024-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -25,7 +25,7 @@ Initié en 2010, peu de temps après le tremblement de terre, notre programme de
 
 Pour plus d'information sur le programme de HELP, cliquer [ici](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
 
-Les trois boursiers soutenus par la Fondation Paré à HELP sont Valencia Dorvilus (agro-économie), Sabine Joseph (agro-production) et Katiana Norvil (agro-économie), cette dernière étant soutenue par la famille Jind à Toronto. Toutes trois expriment leur profonde gratitude envers HELP pour les avoir accompagnées dans leurs études. Mis à part les succès académiques, le plus important est peut-être leur engagement profond dans le service communautaire.
+Les deux boursiers soutenus par la Fondation Paré à HELP sont Valencia Dorvilus (agro-économie) et Sabine Joseph (agro-production). Toutes les deux expriment régulièrement leur profonde gratitude envers HELP de les avoir accompagnées dans leurs études. Mis à part les succès académiques, le plus important est peut-être leur engagement profond dans le service communautaire.
 
 Valencia, ayant participé au groupe d'autonomisation des femmes à HELP et coordonné le club de danse de HELP, affirme que "...grâce à toutes ces activités, j'ai pu m'impliquer dans mon milieu et mettre mes compétences au service de ma communauté".
 

@@ -4,7 +4,7 @@ linktitle: Malawi
 toc: false
 type: docs
 draft: false
-lastmod: "2023-11-27"
+lastmod: "2024-11-27"
 menu:
   current-projects:
     parent: Projets en cours
@@ -22,23 +22,22 @@ Ainsi nommé en hommage à la famille Jim et Nancy Wright qui a vivement soutenu
 
 Étant donné la nature de la vie scolaire en Afrique subsaharienne, nous favorisons une approche holistique qui consiste à couvrir les coûts directs et indirects de l'éducation de nos boursiers: frais de scolarité, livres, matériel scolaire, repas du midi, frais de transport, si nécessaire. Ce dernier item revêt toute son importance lorsqu'il s'agit de jeunes filles vulnérables qui doivent parcourir de longues distances sur des chemins isolés.
 
-![Rice](/img/Malawi/BensonSolarPanels.jpg)
+![Rice](/img/Malawi/Judith.jpg)
 
 Les étudiants que nous avons soutenus au secondaire sont maintenant tous inscrits à l'université:
 
-* Tamandani et Judith ont récemment obtenu leur diplôme de fin d'études secondaires et ont été acceptées à l'université Kamuzu des sciences de la santé pour des licences de 5 ans en sciences de la nutrition et de la diététique et en sciences biomédicales, respectivement.
-* Benson (photo ci-dessus) termine sa dernière année au Don Bosco Youth Technical Institute en ingénierie électrique. Son stage se termine en décembre et sa cérémonie de remise des diplômes aura lieu en février 2024.
-* Jane Chiona (photo ici bas) est en deuxième année d'une licence de lettres de quatre ans à l'université du Malawi à Zomba, où elle étudie les médias pour le développement.
+* Tamandani et Judith (photo ci-dessus) entament leur deuxième année à l'université Kamuzu des sciences de la santé pour des licences de 5 ans en sciences de la nutrition et de la diététique et en sciences biomédicales, respectivement.
+* Jane Chiona (photo ici bas) est en troisième année d'une licence de lettres de quatre ans à l'université du Malawi à Zomba, où elle étudie les médias pour le développement.
 
 
-![Esau](/img/Malawi/JaneChione2.jpg)
+![Esau](/img/Malawi/Jane2024.jpg)
 ___
 
 ## École secondaire jésuite Loyola
 
-Nous en sommes à la cinquième année du partenariat avec Loyola-Malawi. Le programme Loyola-Malawi a été lancé en mémoire de Donald Paré, ancien président de la Fondation Paré, qui était profondément engagé dans la mission de la Fondation, ainsi que dans l'idéal jésuite de former "des Femmes et des Hommes pour les Autres”. 
+Nous en sommes à la sixième année du partenariat avec Loyola-Malawi. Le programme Loyola-Malawi a été lancé en mémoire de Donald Paré, ancien président de la Fondation Paré, qui était profondément engagé dans la mission de la Fondation, ainsi que dans l'idéal jésuite de former "des Femmes et des Hommes pour les Autres”. 
 
-Nous sommes heureux d'annoncer que notre première cohorte de cinq étudiants ont tous réussi leurs examens de fin d'études secondaires à Loyola-Malawi. À partir de cette année scolaire, nous avons un nouveau groupe de cinq étudiantes - toutes des filles - qui commencent leur parcours à cette école secondaire. L'admission se fait au mérite et notre soutien permet à ces jeunes filles issues de milieux défavorisés d'accéder à des possibilités de carrière qui auraient été impossibles autrement.
+Notre groupe actuel de cinq élèves - toutes des filles - est en deuxième année du secondaire. Malgré les nombreux défis auxquels le Malawi a dû faire face au cours de l'année écoulée, les cinq élèves ont réussi à terminer leur première année d'étude avec succès. Notre soutien permet à ces jeunes filles issues de milieux défavorisés d'accéder à des possibilités de carrière qui auraient été impossibles autrement.
 
 ![Loyola](/img/Malawi/loyola-Malawi.jpg)
 
