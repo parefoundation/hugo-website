@@ -4,7 +4,7 @@ linktitle: Canada
 toc: false
 type: docs
 draft: false
-lastmod: "2021-11-29"
+lastmod: "2024-11-27"
 menu:
   past-projects:
     parent: Past Projects
@@ -19,6 +19,8 @@ The Paré Foundation supported Tannis, an Indiginous woman, in the completion of
 
 ![Tannis](/img/Canada/tannis.jpg)
 
-After graduating in June 2020 amidst the Covid-19 pandemic, Tannis opted to remain in Saskatoon. Going forward, she aims to help alleviate the over representation of Indigenous children in government care. She will be working to help Indigenous communities to implement Bill C-92 which will allow them to direct their own policies to ensure that their children remain within their respective families and communities.
+After graduating in June 2020 amidst the Covid-19 pandemic, Tannis opted to remain in Saskatoon. She worked to help alleviate the over representation of Indigenous children in government care and she hoped to help Indigenous communities implement Bill C-92 allowing them to direct their own policies to ensure that their children remain within their respective families and communities.
+
+Sadly, Tannis passed away in April 2024. Soon after graduating from law school, Tannis was diagnosed with an incurable cancer which she was fiercely determined to overcome and then bravely accepted. The First Nations name Tannis was given translates to 'eagle that flies high' representing strength, wisdom, courage, and power. She was all of those things and more. Such a loss for so many. She will be missed.
 
 _______________________________________________________________________________
