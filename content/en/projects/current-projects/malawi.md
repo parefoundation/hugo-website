@@ -37,7 +37,7 @@ The high school students we supported are now all enrolled in university:
 
 This is our seventh year working in partnership with Loyola-Malawi, in memory of Donald Paré, former President of the Paré Foundation, who was deeply committed to the Foundation’s mission, as well as the Jesuit ideal of forming “Women and Men for Others”. 
 
-Our current group of five students -- all girls -- are in their 3rd year of high school. Despite the many challenges Malawi has endured over the past year, all five students managed to successfully complete Form 2 and are now advancing to Form 3. All five of them also passed the National Junior Certificate of Education exams this year. Our support gives these girls from disadvantaged backgrounds access to career possibilities that would otherwise have been impossible. 
+Our current group of five students -- all girls -- are in their 3rd year of high school. Despite the many challenges Malawi has endured over the past year, all five students managed to successfully complete Form 2. All five of them also passed the National Junior Certificate of Education exams this year. Our support gives these girls from disadvantaged backgrounds access to career possibilities that would otherwise have been impossible. 
 
 ![Loyola](/img/Malawi/loyola-Malawi.jpg)
 

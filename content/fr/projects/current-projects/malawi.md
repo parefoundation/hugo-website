@@ -38,7 +38,7 @@ ___
 
 Nous en sommes à la septième année du partenariat avec Loyola-Malawi. Le programme Loyola-Malawi a été lancé en mémoire de Donald Paré, ancien président de la Fondation Paré, qui était profondément engagé dans la mission de la Fondation, ainsi que dans l'idéal jésuite de former "des Femmes et des Hommes pour les Autres”. 
 
-Notre groupe actuel de cinq élèves - toutes des filles - est en troisième année du secondaire. Malgré les nombreux défis auxquels le Malawi continu à faire face, les cinq élèves ont réussi à terminer leur première année d'étude avec succès. Toutes les cinq ont également réussi cette année les examens du National Junior Certificate of Education. Notre soutien permet à ces jeunes filles issues de milieux défavorisés d'accéder à des possibilités de carrière qui auraient été impossibles autrement.
+Notre groupe actuel de cinq élèves - toutes des filles - est en troisième année du secondaire. Malgré les nombreux défis auxquels le Malawi continu à faire face, les cinq élèves ont réussi à terminer leur deuxième année d'étude avec succès. Toutes les cinq ont également réussi cette année les examens du National Junior Certificate of Education. Notre soutien permet à ces jeunes filles issues de milieux défavorisés d'accéder à des possibilités de carrière qui auraient été impossibles autrement.
 
 ![Loyola](/img/Malawi/loyola-Malawi.jpg)
 
