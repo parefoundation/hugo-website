@@ -4,7 +4,7 @@ linktitle: Haïti
 toc: false
 type: docs
 draft: false
-lastmod: "2024-11-27"
+lastmod: "2025-11-30"
 menu:
   current-projects:
     parent: Projets en cours
@@ -23,10 +23,15 @@ Initié en 2010, peu de temps après le tremblement de terre, notre programme de
 *   L'accès à des conseillers pédagogiques et des cours d'anglais
 *   Un cours de Formation en leadership et citoyenneté
 
-Pour plus d'information sur le programme de HELP, cliquer [ici](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
+Pour plus d'information sur le programme de HELP, cliquer [ici](https://www.uhelp.net/our-story).
 
-Les deux boursiers soutenus par la Fondation Paré à HELP sont Valencia Dorvilus (agro-économie) et Sabine Joseph (agro-production). Toutes les deux expriment régulièrement leur profonde gratitude envers HELP de les avoir accompagnées dans leurs études. Mis à part les succès académiques, le plus important est peut-être leur engagement profond dans le service communautaire.
+Les deux boursiers soutenus par la Fondation Paré à HELP sont Sabine Joseph (en finance) et Loveline Dieujuste (en administration). Toutes les deux expriment régulièrement leur profonde gratitude envers HELP de les avoir accompagnées dans leurs études. Mis à part les succès académiques, le plus important est peut-être leur engagement profond dans le service communautaire.
 
-Valencia, ayant participé au groupe d'autonomisation des femmes à HELP et coordonné le club de danse de HELP, affirme que "...grâce à toutes ces activités, j'ai pu m'impliquer dans mon milieu et mettre mes compétences au service de ma communauté".
+Loveline, profondément affectée par les violences qui secouent actuellement Haïti, estime que «Haïti a besoin d'une femme comme moi, capable d'essuyer ses larmes». Elle espère que le calme reviendra afin qu'elle et ses camarades de classe puissent pleinement profiter des opportunités qui s'offrent à eux, telles que des stages, des projets de service communautaire et des activités de groupe. 
 
-![Students](/img/Haiti/helpstudents.jpg)
+![Loveline](/img/Haiti/Loveline.jpg)
+
+Sabine obtiendra son diplôme l'an prochain et elle rend déjà la pareille en faisant du bénévolat au département de comptabilisation de HELP. Elle trouve également le temps de venir en aide à sa communauté en donnant de son temps à un groupe appelé Devlopman Reyel qui organise des collectes de sacs à dos et de fournitures scolaires afin d'aider les parents à fournir à leurs enfants le nécessaire pour bien démarrer à l'école. Cela ne veut pas dire que tout a été facile pour elle; en repensant aux derniers mois, elle nous confie que: «J'ai été stressée, j'ai eu peur, mais j'ai néanmoins gardé le courage de continuer. Je suis consciente de mes responsabilités et je sais que je dois les assumer.»
+
+![Sabine](/img/Haiti/Sabine.jpg)
+

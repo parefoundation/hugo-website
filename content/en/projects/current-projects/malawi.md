@@ -4,7 +4,7 @@ linktitle: Malawi
 toc: false
 type: docs
 draft: false
-lastmod: "2024-11-27"
+lastmod: "2025-11-30"
 menu:
   current-projects:
     parent: Current Projects
@@ -21,22 +21,23 @@ The Jim and Nancy Wright Scholars Program (named in recognition of the Wright fa
 
 Due to the nature of schooling in Sub-Saharan Africa, the chosen approach is to holistically support beneficiaries, covering both direct and indirect costs of education: tuition fees, textbooks, school supplies, mid-day meals, and transportation costs, if need be. This last item is particularly important when supporting girls’ education, given their vulnerability when traveling long distances in remote areas.
 
-![Solar](/img/Malawi/Judith.jpg)
+![Tamandani](/img/Malawi/Tamandani25.jpg)
+![Judith](/img/Malawi/Judith25.jpg)
 
 The high school students we supported are now all enrolled in university:
 
-* Tamandani and Judith (pictured above) are headed into their second year at Kamuzu University of Health Sciences, for 5-year Bachelors degrees in Science of Nutrition and Dietetics and Biomedical Science, respectively.
-* Jane (pictured below) is headed into her 3rd year of a 4 year bachelor of Arts at the University of Malawi in Zomba studying Media for Development.
+* Tamandani and Judith (pictured above) are headed into their third year at Kamuzu University of Health Sciences, for Bachelors degrees in Science of Nutrition and Dietetics and Biomedical Science, respectively.
+* Jane (pictured below) is headed into her last year of a bachelor of Arts at the University of Malawi in Zomba studying Media for Development.
 
-![Jane](/img/Malawi/Jane2024.jpg)
+![Jane](/img/Malawi/Jane.jpg)
 
 
 ---
 ## Loyola Jesuit Secondary School
 
-This is our sixth year working in partnership with Loyola-Malawi, in memory of Donald Paré, former President of the Paré Foundation, who was deeply committed to the Foundation’s mission, as well as the Jesuit ideal of forming “Women and Men for Others”. 
+This is our seventh year working in partnership with Loyola-Malawi, in memory of Donald Paré, former President of the Paré Foundation, who was deeply committed to the Foundation’s mission, as well as the Jesuit ideal of forming “Women and Men for Others”. 
 
-Our current group of five students -- all girls -- are in their 2nd year of high school. Despite the many challenges Malawi has endured over the past year, all five students managed to successfully complete Form 1 and are now advancing to Form 2. Our support gives these girls from disadvantaged backgrounds access to career possibilities that would otherwise have been impossible. 
+Our current group of five students -- all girls -- are in their 3rd year of high school. Despite the many challenges Malawi has endured over the past year, all five students managed to successfully complete Form 2 and are now advancing to Form 3. All five of them also passed the National Junior Certificate of Education exams this year. Our support gives these girls from disadvantaged backgrounds access to career possibilities that would otherwise have been impossible. 
 
 ![Loyola](/img/Malawi/loyola-Malawi.jpg)
 

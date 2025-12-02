@@ -4,7 +4,7 @@ linktitle: Haiti
 toc: false
 type: docs
 draft: false
-lastmod: "2024-11-27"
+lastmod: "2025-11-30"
 menu:
   current-projects:
     parent: Current Projects
@@ -23,10 +23,15 @@ Started in 2010, shortly after the earthquake, the Paré Scholar program consist
 *   Academic advising and counseling, including computer literacy and English classes
 *   Leadership & Citizenship training
 
-For more information on HELP's program, click [here](http://uhelp.net/our-story/how-we-work/#sthash.ZRikysiZ.dpuf).
+For more information on HELP's program, click [here](https://www.uhelp.net/our-story).
 
-We are currently supporting two Paré Scholars at HELP: Valencia Dorvilus (agro-economics) and Sabine Joseph (agro-production). They are both deeply grateful to HELP for accompanying them in their studies. Academic successes aside, perhaps most important is their commitment to serving their community.  
+We are currently supporting two Paré Scholars at HELP: Sabine Joseph (Finance) and Loveline Dieujuste (Management). They are both deeply grateful to HELP for accompanying them in their studies. Academic successes aside, perhaps most important is their commitment to serving their community.  
 
-Valencia, having taken part in the women’s empowerment group at HELP and coordinated the HELP dance club, reports that “…through all these activities, I was able to get involved in my surroundings and use my skills in service of my community.”
+Loveline, who has been deeply affected by the ongoing violence in Haiti, believes that “…Haiti needs a woman like me who can wipe away her tears.” She hopes for calm to return so that she and her classmates can fully embrace the opportunities before them such as internships, service projects, and group activities. 
 
-![Students](/img/Haiti/helpstudents.jpg)
+![Loveline](/img/Haiti/Loveline.jpg)
+
+Sabine will be graduating next year and she is already giving back by volunteering in the HELP accounting department. She also finds the time to support her community by giving of her time to a group called Devlopman Reyel which organizes backpack and school supply drives to help parents provide their children with the essentials for a strong start in school. That's not to say things have been easy for her; looking back on the recent months, she confides that "I have been stressed, I have been afraid, but I have nevertheless kept the courage to continue. I am aware of my responsibilities and I know that I must face them."
+
+![Sabine](/img/Haiti/Sabine.jpg)
+

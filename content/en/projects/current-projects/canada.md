@@ -4,7 +4,7 @@ linktitle: Canada
 toc: false
 type: docs
 draft: false
-lastmod: "2024-11-27"
+lastmod: "2025-12-01"
 menu:
   current-projects:
     parent: Current Projects
@@ -34,7 +34,6 @@ The Foundation is thrilled to see this programme helping to shape and support th
 
 Centre Amitié, Ressources, et Entraide pour la Jeunesse (C.A.R.E. Jeunesse) is a Quebec, bilingual, non-profit organization dedicated to providing a community and a voice for youth leaving government care. Founded by alumni of care who have experienced the system first hand, the organization aims to assist youth after they leave care. The Paré Foundation is offering scholarships to two students who need support to continue their education:
 
-* Shanice is a student at Université du Québec en Abitibi-Témiscamingue, studying Health Sciences. She hopes to become a nurse practitioner and would like
-to eventually work in Northern Quebec. 
+* Shanice is a nursing student at Université du Québec en Abitibi-Témiscamingue. She successfully completed her 2024-25 classes and is currently enrolled in her last semester of courses. In January, she will start her final internship. After she graduates, Shanice plans to work as a nurse in northern Québec.
 
 * Elijah has transferred from the Urban Studies program at Concordia University and enrolled in the Bachelor of Social Work program at McGill. He hopes to enter the combined law and social work graduate program once he finishes his bachelor's.

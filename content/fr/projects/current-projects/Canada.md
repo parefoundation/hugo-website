@@ -4,7 +4,7 @@ linktitle: Canada
 toc: false
 type: docs
 draft: false
-lastmod: "2024-11-27"
+lastmod: "2025-12-01"
 menu:
   current-projects:
     parent: Projets en cours
@@ -33,6 +33,6 @@ La Fondation est ravie de voir ce programme contribuer à façonner et soutenir 
 
 Le Centre Amitié, Ressources et Entraide pour la Jeunesse (C.A.R.E. Jeunesse) est un organisme québécois bilingue à but non lucratif qui a pour mission d'offrir une communauté et une voix aux jeunes qui quittent les services gouvernementaux. Fondé par d'anciens bénéficiaires qui sont passés à travers le même système, le Centre d'Amitié vise à aider les jeunes à devenir plus autonomes. La Fondation Paré offre un bourse d'étude à deux étudiants qui ont besoin de soutien pour poursuivre leurs études une fois qu'ils cessent d'être pris en charge par le gouvernement:
  
-* Shanice est étudiante à l'Université du Québec en Abitibi-Témiscamingue. Elle est inscrite au programme de premier cycle en sciences de la santé. Elle voudrait éventuellement travailler comme infirmière dans le nord du Québec.
+* Shanice est étudiante en sciences infirmières à l'Université du Québec en Abitibi-Témiscamingue. Elle a terminé avec succès ses cours de 2024-2025 et est actuellement inscrite à son dernier semestre. En janvier, elle commencera son stage final. Après avoir obtenu son diplôme, Shanice prévoit de travailler comme infirmière dans le nord du Québec.
 
-* Elijah a transféré du programme d'études urbaines à l'Université Concordia et s'est inscrit au programme de baccalauréat en travail social à l'Université McGill. Il espère entrer dans le programme combiné de droit et de travail social après avoir terminé son baccalauréat.
+* Elijah a transféré du programme d'études urbaines de l'Université Concordia et s'est inscrit au programme de baccalauréat en travail social à l'Université McGill. Il espère entrer dans le programme combiné de droit et de travail social après avoir terminé son baccalauréat.
